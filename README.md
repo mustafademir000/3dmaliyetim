@@ -1,5 +1,9 @@
 # 📦 3D Maliyetim - 3D Printing Cost & Pricing Estimator
 
+<p align="center">
+  <img src="assets/banner.png" alt="3D Maliyetim Cover" width="600"/>
+</p>
+
 [![Flutter](https://img.shields.io/badge/Flutter-3.35+-02569B?logo=flutter&logoColor=white)](https://flutter.dev)
 [![Dart](https://img.shields.io/badge/Dart-3.9+-0175C2?logo=dart&logoColor=white)](https://dart.dev)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
